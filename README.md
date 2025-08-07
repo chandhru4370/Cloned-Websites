@@ -5,12 +5,12 @@
 _-Made by Geetorus </a>_
 
 ## See full tables with better view 👉
-
+https://chandhru4370.github.io/Cloned-Websites/
 ---
 
 I need your help to maintain this list up to date 🙏. See [contribution Guide](#contribution-guide).
 
-[I'm also looking for a maintainer to merge PRs of new clones](https://github.com/GorvGoyl/Clone-Wars/issues/209).
+[I'm also looking for a maintainer to merge PRs of new clones]().
 
 ### There are 2 tables:
 
@@ -26,7 +26,7 @@ I need your help to maintain this list up to date 🙏. See [contribution Guide]
    2. Alternatives: fully-functional open-source alternatives of popular software.
       Seeing GitHub stars will give you a rough idea about which one is which.
 
-> Read the story behind this project: [My simple GitHub project went viral 🚀](https://gourav.io/blog/my-simple-github-project-went-viral)
+> Read the story behind this project: [My simple GitHub project went viral 🚀]()
 
 ## Clones with Tutorials
 | Clone of  | Demo                                                                                                   | Tutorial / Course Site                                                                                                          | Repo                                                                                                                                  | Tech Stack                                                      |
