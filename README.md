@@ -1,12 +1,10 @@
-![clone wars](img/og.png)
-
-# Clone Wars - Open source clones of popular sites
+# Cloned Websites - Open source clones of popular sites
 
 > 100+ open-source clones and alternatives of popular sites like Airbnb, Amazon, Instagram, Netflix, TikTok, Spotify, WhatsApp, YouTube, etc. List contains source code, tutorials, demo links, tech stack, and GitHub stars count. Great for learning purpose!
 
-_-Made by <a href= "https://gourav.io" title="Gourav Goyal"> Gourav Goyal </a>_
+_-Made by Geetorus </a>_
 
-## See full tables with better view 👉 [gourav.io/clone-wars](https://gourav.io/clone-wars)
+## See full tables with better view 👉
 
 ---
 
